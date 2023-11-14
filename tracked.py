@@ -2,5 +2,5 @@
 # https://ww7.mangakakalot.tv/
 
 tracked = [
-    ["A Returner's Magic Should Be Special","https://ww7.mangakakalot.tv/manga/manga-ci980191"]
+    "https://ww7.mangakakalot.tv/manga/manga-vk998745"
 ]
